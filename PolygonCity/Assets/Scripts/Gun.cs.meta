@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bdfe055272d144b40b9e7673fc9bfb7f
+timeCreated: 1525784337
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - muzzleFlash: {instanceID: 0}
+  - impactEffect: {instanceID: 0}
+  - fpsCam: {instanceID: 0}
+  - hitMarker: {fileID: 1196866835408448, guid: cddf68b2f05db8f4cbb65256b7459830,
+      type: 2}
+  - canvasTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

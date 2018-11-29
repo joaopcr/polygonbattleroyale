@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aac915cedc93a84bbb4048ce33b4afd, type: 3}
+  m_Name: RifleAmmo
+  m_EditorClassIdentifier: 
+  nome: Rifle Ammo
+  prefab: {fileID: 1550532260145472, guid: 8d49026d4bc81fd489fb2e060a6401e6, type: 2}
+  drop: {fileID: 1550532260145472, guid: 8d49026d4bc81fd489fb2e060a6401e6, type: 2}
+  thumbnail: {fileID: 0}
+  tipo: 1
+  quantidade: 30
+  ammoTipo: 0

@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: b97c46050c0786a4a827367747971a51
+timeCreated: 1532962244
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ball_l
+    100002: ball_r
+    100004: calf_l
+    100006: calf_r
+    100008: Character_Male_Jacket
+    100010: clavicle_l
+    100012: clavicle_r
+    100014: eyebrows
+    100016: eyes
+    100018: finger_01_l
+    100020: finger_01_r
+    100022: finger_02_l
+    100024: finger_02_r
+    100026: finger_03_l
+    100028: finger_03_r
+    100030: finger_04_l
+    100032: finger_04_r
+    100034: Foot_L
+    100036: Foot_R
+    100038: Hand_L
+    100040: Hand_R
+    100042: head
+    100044: //RootNode
+    100046: indexFinger_01_l
+    100048: indexFinger_01_r
+    100050: indexFinger_02_l
+    100052: indexFinger_02_r
+    100054: indexFinger_03_l
+    100056: indexFinger_03_r
+    100058: indexFinger_04_l
+    100060: indexFinger_04_r
+    100062: lowerarm_l
+    100064: lowerarm_r
+    100066: neck_01
+    100068: Pelvis
+    100070: Root
+    100072: spine_01
+    100074: spine_02
+    100076: spine_03
+    100078: Thigh_L
+    100080: Thigh_R
+    100082: thumb_01_l
+    100084: thumb_01_r
+    100086: thumb_02_l
+    100088: thumb_02_r
+    100090: thumb_03_l
+    100092: thumb_03_r
+    100094: toes_l
+    100096: toes_r
+    100098: UpperArm_L
+    100100: UpperArm_R
+    400000: ball_l
+    400002: ball_r
+    400004: calf_l
+    400006: calf_r
+    400008: Character_Male_Jacket
+    400010: clavicle_l
+    400012: clavicle_r
+    400014: eyebrows
+    400016: eyes
+    400018: finger_01_l
+    400020: finger_01_r
+    400022: finger_02_l
+    400024: finger_02_r
+    400026: finger_03_l
+    400028: finger_03_r
+    400030: finger_04_l
+    400032: finger_04_r
+    400034: Foot_L
+    400036: Foot_R
+    400038: Hand_L
+    400040: Hand_R
+    400042: head
+    400044: //RootNode
+    400046: indexFinger_01_l
+    400048: indexFinger_01_r
+    400050: indexFinger_02_l
+    400052: indexFinger_02_r
+    400054: indexFinger_03_l
+    400056: indexFinger_03_r
+    400058: indexFinger_04_l
+    400060: indexFinger_04_r
+    400062: lowerarm_l
+    400064: lowerarm_r
+    400066: neck_01
+    400068: Pelvis
+    400070: Root
+    400072: spine_01
+    400074: spine_02
+    400076: spine_03
+    400078: Thigh_L
+    400080: Thigh_R
+    400082: thumb_01_l
+    400084: thumb_01_r
+    400086: thumb_02_l
+    400088: thumb_02_r
+    400090: thumb_03_l
+    400092: thumb_03_r
+    400094: toes_l
+    400096: toes_r
+    400098: UpperArm_L
+    400100: UpperArm_R
+    2100000: lambert14
+    4300000: Character_Male_Jacket
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    13700000: Character_Male_Jacket
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
