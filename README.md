@@ -1,6 +1,6 @@
-# polygonbattleroyale
+# Polygon Battle Royale
 
-PolygonBattleRoyale is a LAN multiplayer First Person Shooter. You have to collect weapons to kill other enemys in this town and the last one stand wins.
+*Polygon Battle Royale* is a LAN multiplayer First Person Shooter. You have to collect weapons to kill other enemys in this town and the last one stand wins.
 
 The game was made in Unity and it's network with UNET. The city is in lowpoly to increase the FPS because I wish someday it'll go to mobile.
 
